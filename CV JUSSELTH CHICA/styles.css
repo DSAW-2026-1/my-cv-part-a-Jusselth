@@ -11,7 +11,7 @@ body
 }
 header
 {
-    margin: 35px;
+    margin: 25px;
     padding: 35px;
     background-color: #06c9ff39;
     text-align: center;
@@ -19,8 +19,7 @@ header
 
 main
 {
-    margin: 15px;
-    padding: 15px;
+    margin: 25px;
     background-color: #06c9ff25;
 }
 
