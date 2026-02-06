@@ -15,7 +15,7 @@ header
     padding: 35px;
     background-color: #06c9ff39;
     text-align: center;
-    border: 5px solid #000000;
+    border: 3px solid #000000;
     border-radius: 10px;
 }
 
@@ -24,7 +24,7 @@ main
     margin: 25px;
     padding:35px;
     background-color: #06c9ff25;
-    border: 5px solid #000000;
+    border: 3px solid #000000;
     border-radius: 10px;
 }
 
