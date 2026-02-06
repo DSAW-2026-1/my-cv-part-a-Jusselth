@@ -6,7 +6,7 @@ body
     min-height: 100vh;
     font-family: "Playfair Display", serif;
     color: #0000005d;
-    text-align: center;
+    text-align: justify;
     background-color: #06c9ff1f;
 }
 header
@@ -14,6 +14,7 @@ header
     margin: 35px;
     padding: 35px;
     background-color: #06c9ff39;
+    text-align: center;
 }
 
 main
@@ -30,4 +31,9 @@ h1
 h2
 {
     color: #00042bcc;
+}
+ul
+{
+    margin: 40px;
+    text-align: center;
 }
