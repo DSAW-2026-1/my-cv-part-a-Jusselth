@@ -2,13 +2,18 @@ body
 {
     margin: 0 auto;
     padding: 0 auto;
-    background-color: #06c9ff;
     max-width: 1000px;
     min-height: 100vh;
     font-family: "Playfair Display", serif;
     color: #0000005d;
+    text-align: center;
 }
-
+header
+{
+    margin: 20px;
+    padding: 20px;
+    background-color: #06c9ff25;
+}
 h1
 {
     color: #00042bcc;
